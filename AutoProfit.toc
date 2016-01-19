@@ -1,0 +1,7 @@
+## Title: AutoProfit v3.11a
+## Interface: 11200
+## Version: 3.11a
+## SavedVariables: autoProfitExceptions, autoSell, autoSilent
+## X-Credits: Roadblock
+## Notes: Automatically sells low quality gray items to the vendor. Disconnect protection for Nostalrius.
+AutoProfit.xml
