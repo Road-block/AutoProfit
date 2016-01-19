@@ -57,7 +57,6 @@ function SellJunk()
 				if (quality == -1) then
 					local linkcolor = AutoSeller_ProcessLink(GetContainerItemLink(bag, slot));
 					if (linkcolor == 1) then
-					if (autoSilent == 0) then DEFAULT_CHAT_FRAME:AddMessage("|c00bfffffAutoProfit|r: Sold " .. GetContainerItemLink(bag, slot), 0.0, .8, 1); end
             table.insert(sellTimer.junk,{bag,slot})
 					end
 							
